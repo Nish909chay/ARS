@@ -1,5 +1,5 @@
-# ARS
-Airline Reservation System
+# Airline Reservation System using C
+
 The Airline Reservation System project is designed to manage flight bookings, cancellations, and flight data efficiently. It provides functionalities for both users and administrators to interact with the system seamlessly. 
 
 ### **User Side**
